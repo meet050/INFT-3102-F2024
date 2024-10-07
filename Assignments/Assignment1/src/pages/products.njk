@@ -1,0 +1,29 @@
+---
+layout: base.njk
+title: Products
+pagination:
+    data: products.productList
+    size: 5
+permalink: "products/page-{{ pagination.pageNumber }}/index.html"
+---
+
+<h1>Our Products</h1>
+
+<ul>
+    {%- for item in pagination.items %}
+    <li>
+        <img src="{{ item.image }}" width="350" height="100" />
+        <h2>{{ item.productName }}</h2>
+        <p>Price: {{ item.price }}</p>
+        <p>{{ item.description }}</p>
+    </li>
+    {% endfor %}
+</ul>
+
+{% if pagination.pageNumber > 0 %}
+    <a href="{{ pagination.href.previous }}">Previous</a>
+{% endif %}
+
+{% if pagination.pageNumber < pagination.pages.length - 1 %}
+    <a href="{{ pagination.href.next }}">Next</a>
+{% endif %}

@@ -1,0 +1,94 @@
+{
+    "productList": [
+        {
+            "productName": "Radeon RX 6900 XT",
+            "price": 999.99,
+            "description": "The AMD Radeon RX 6900 XT graphics card delivers stunning 4K gaming performance with ray tracing capabilities, making it ideal for hardcore gamers.",
+            "image": "/assets/radeon_rx_6900_xt.png"
+        },
+        {
+            "productName": "GeForce RTX 3080",
+            "price": 799.99,
+            "description": "NVIDIA's GeForce RTX 3080 offers incredible performance for high-end gaming, featuring 10GB of GDDR6X memory and real-time ray tracing.",
+            "image": "/assets/geforce_rtx_3080.png"
+        },
+        {
+            "productName": "Radeon RX 6800",
+            "price": 579.99,
+            "description": "The AMD Radeon RX 6800 provides great performance for 1440p gaming with 16GB of GDDR6 memory and features such as Smart Access Memory.",
+            "image": "/assets/radeon_rx_6800.png"
+        },
+        {
+            "productName": "GeForce RTX 3070",
+            "price": 499.99,
+            "description": "The NVIDIA GeForce RTX 3070 offers excellent performance at 1440p resolutions, with 8GB of GDDR6 memory and support for NVIDIA DLSS technology.",
+            "image": "/assets/geforce_rtx_3070.png"
+        },
+        {
+            "productName": "Radeon RX 6700 XT",
+            "price": 479.99,
+            "description": "The Radeon RX 6700 XT is optimized for high frame rates in 1440p gaming, featuring 12GB of GDDR6 memory and advanced cooling technology.",
+            "image": "/assets/radeon_rx_6700_xt.png"
+        },
+        {
+            "productName": "GeForce GTX 1660 Super",
+            "price": 249.99,
+            "description": "The GeForce GTX 1660 Super is an excellent choice for 1080p gaming, offering 6GB of GDDR6 memory and efficient cooling for long gaming sessions.",
+            "image": "/assets/geforce_gtx_1660_super.png"
+        },
+        {
+            "productName": "Radeon RX 5600 XT",
+            "price": 279.99,
+            "description": "The RX 5600 XT delivers solid performance for 1080p gaming, with 6GB of GDDR6 memory and features like AMD Radeon Image Sharpening.",
+            "image": "/assets/radeon_rx_5600_xt.png"
+        },
+        {
+            "productName": "GeForce RTX 3060 Ti",
+            "price": 399.99,
+            "description": "The GeForce RTX 3060 Ti combines performance and value, delivering 1440p gaming with 8GB of GDDR6 memory and advanced ray tracing capabilities.",
+            "image": "/assets/geforce_rtx_3060_ti.png"
+        },
+        {
+            "productName": "Radeon RX 5500 XT",
+            "price": 199.99,
+            "description": "The RX 5500 XT is designed for 1080p gaming, featuring 4GB of GDDR6 memory and a compact design for easy installation in smaller cases.",
+            "image": "/assets/radeon_rx_5500_xt.png"
+        },
+        {
+            "productName": "GeForce GTX 1050 Ti",
+            "price": 159.99,
+            "description": "The GTX 1050 Ti provides great value for budget gaming, offering 4GB of GDDR5 memory and solid performance for popular titles at 1080p.",
+            "image": "/assets/geforce_gtx_1050_ti.png"
+        },
+        {
+            "productName": "Radeon VII",
+            "price": 699.99,
+            "description": "The Radeon VII is a powerful GPU that excels in both gaming and content creation, featuring 16GB of HBM2 memory and outstanding compute performance.",
+            "image": "/assets/radeon_vii.png"
+        },
+        {
+            "productName": "GeForce RTX 3090",
+            "price": 1499.99,
+            "description": "The GeForce RTX 3090 is the ultimate graphics card for gamers and creators alike, boasting 24GB of GDDR6X memory and unmatched performance in 4K gaming.",
+            "image": "/assets/geforce_rtx_3090.png"
+        },
+        {
+            "productName": "Radeon RX 580",
+            "price": 229.99,
+            "description": "The RX 580 is a popular choice for 1080p gaming, offering 8GB of GDDR5 memory and support for FreeSync technology for a smoother gaming experience.",
+            "image": "/assets/radeon_rx_580.png"
+        },
+        {
+            "productName": "GeForce GTX 1070",
+            "price": 299.99,
+            "description": "The GTX 1070 is ideal for gamers seeking 1440p performance, featuring 8GB of GDDR5 memory and excellent power efficiency.",
+            "image": "/assets/geforce_gtx_1070.png"
+        },
+        {
+            "productName": "Radeon RX 6700",
+            "price": 449.99,
+            "description": "The Radeon RX 6700 delivers great 1440p gaming performance with 12GB of GDDR6 memory and AMD's latest graphics technology.",
+            "image": "/assets/radeon_rx_6700.png"
+        }
+    ]
+}
