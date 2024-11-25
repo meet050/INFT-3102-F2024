@@ -88,10 +88,6 @@ Ensure you have the following installed before getting started:
 - **Backend**: Strapi (Headless CMS)
 - **Database**: SQLite (via Strapi plugin)
 
-### Contributing
-
-Feel free to fork this project, make changes, and open pull requests. Contributions are welcome!
-
 ### License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
