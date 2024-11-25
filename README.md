@@ -96,8 +96,5 @@ Feel free to fork this project, make changes, and open pull requests. Contributi
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
-Thank you for choosing **HEXA** for your graphics card needs! We hope you enjoy shopping with us and exploring the latest in gaming technology.
-```
 
