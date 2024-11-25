@@ -101,11 +101,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Thank you for choosing **HEXA** for your graphics card needs! We hope you enjoy shopping with us and exploring the latest in gaming technology.
 ```
 
-### Key Sections:
-- **Home Page Description**: Outlines what the home page contains (e.g., featured products, brands, and shopping benefits).
-- **Blog Page**: Mentions blog post structure and includes placeholders for blog content.
-- **Setup Instructions**: Walks through the installation, starting the frontend, and running the Strapi backend.
-- **Available Scripts**: Details the commands used to run the project.
-- **Technologies**: Describes the tools used for the frontend (11ty) and backend (Strapi).
-
-This README is ready for your project to provide clear instructions for setting up, running, and contributing.
